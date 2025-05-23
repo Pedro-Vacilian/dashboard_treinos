@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4F46E5"       # Azul arroxeado
+backgroundColor = "#F9FAFB"    # Cinza clarinho
+secondaryBackgroundColor = "#FFFFFF"  # Branco puro pra áreas secundárias
+textColor = "#111827"          # Cinza escuro (quase preto)
+font = "sans serif"
